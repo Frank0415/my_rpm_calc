@@ -7,6 +7,7 @@
     "cstring": "c",
     "typeinfo": "c",
     "cstdlib": "c",
-    "future": "c"
+    "future": "c",
+    "ratio": "c"
   }
 }
