@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "stringp.h": "c",
+    "calc.h": "c",
+    "stdio.h": "c",
+    "stringvar.h": "c",
+    "cstring": "c",
+    "typeinfo": "c",
+    "cstdlib": "c",
+    "future": "c"
+  }
+}
